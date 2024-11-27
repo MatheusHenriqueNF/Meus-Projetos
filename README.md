@@ -1,8 +1,5 @@
-Aqui está um template de README para o seu projeto do Jogo da Memória, desenvolvido com HTML, CSS e JavaScript:
 
----
-
-# **Jogo da Memória**
+# **Praticando**
 
 > **Desafio interativo de memória feito com HTML, CSS e JavaScript.**
 
